@@ -1,4 +1,4 @@
-# Really good project
+#Really good project
 
 ##Character styles ...
 
@@ -12,3 +12,10 @@
 
 Visit our [**project**](https://github.com/ReunionRdbioseq2309/really_good_project)
 
+## and quote blocks!
+
+> This is a quote block !
+
+```This block will be highlighted!```
+
+Only this `word` will be highlighted
