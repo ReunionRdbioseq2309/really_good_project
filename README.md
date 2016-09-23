@@ -1,8 +1,6 @@
 # Really good project
 
-##Header Two
-
-Character styles ...
+##Character styles ...
 
   _Italic_
 
@@ -10,7 +8,7 @@ Character styles ...
 
   _**Italic and bold**_
 
-... links ...
+##... links ...
 
 Visit our [**project**](https://github.com/ReunionRdbioseq2309/really_good_project)
 
