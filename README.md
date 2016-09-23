@@ -12,7 +12,7 @@
 
 Visit our [**project**](https://github.com/ReunionRdbioseq2309/really_good_project)
 
-## and quote blocks!
+## and text formatting!
 
 > This is a quote block !
 
